@@ -1,3 +1,4 @@
 create test2.txt
 update by num1
 uodate2 by num2
+uodate3 by num2
