@@ -4,4 +4,8 @@ second line update
 third inst by num2
 inst by num2
 merge test by num1
+<<<<<<< HEAD
 merge test2 by num2
+=======
+merge test2 by num1
+>>>>>>> e2a0695a4968f10449a0ecb5ea4317ca33cc23e9
